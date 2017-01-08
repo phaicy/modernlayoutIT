@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+   <title> TOP 3 FILMEMACHER</title>
+   <link rel="stylesheet" href="prjkt.css" type="text/css">
+</head>
+
+<body>
+
+   <nav>
+     <ul>
+      <li> <a href="prjkt.html">home</a> </li>
+	   <li><a href="page2.html">stanley kubrick</a></li>
+       <li><a href="page3.html">quentin tarantino</a></li>
+       <li><a href="page4.html">david fincher</a></li>
+     </ul>
+   </nav>
+	<main> 
+	   <aside>
+	     <h1> Meine 3 Lieblings-Filmemacher - und wieso sie sich diesen Titel verdient haben </h1>
+		 <p> Herzlich Wilkommen auf meiner Seite! </p>
+		  <p> In ein paar kurzen Paragraphen würde ich euch gerne drei meiner Lieblings-Filmemacher vorstellen und erklären wieso ich sie für etwas besonderes halte. </p>
+		  <p> Clickt einfach die Links am linken Bildschirmrand um zu den Texten zu kommen. Viel Spaß! :)
+	   </aside>
+	   
+	   <article>
+		  <p> <img src="bilder/klappe.png">  </p>
+	   </article>
+	  
+
+	</main>   
+ 
+</body>
+</html>
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+   <title> TOP 3 FILMEMACHER</title>
+   <link rel="stylesheet" href="prjkt.css" type="text/css">
+</head>
+
+<body>
+
+   <nav>
+     <ul>
+      <li> <a href="prjkt.html">home</a> </li>
+	   <li><a href="page2.html">stanley kubrick</a></li>
+       <li><a href="page3.html">quentin tarantino</a></li>
+       <li><a href="page4.html">david fincher</a></li>
+     </ul>
+   </nav>
+	<main> 
+	   <aside>
+	     <h1> Meine 3 Lieblings-Filmemacher - und wieso sie sich diesen Titel verdient haben </h1>
+		 <p> Herzlich Wilkommen auf meiner Seite! </p>
+		  <p> In ein paar kurzen Paragraphen würde ich euch gerne drei meiner Lieblings-Filmemacher vorstellen und erklären wieso ich sie für etwas besonderes halte. </p>
+		  <p> Clickt einfach die Links am linken Bildschirmrand um zu den Texten zu kommen. Viel Spaß! :)
+	   </aside>
+	   
+	   <article>
+		  <p> <img src="bilder/klappe.png">  </p>
+	   </article>
+	  
+
+	</main>   
+ 
+</body>
+</html>
